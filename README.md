@@ -1,3 +1,12 @@
+# Software Engineering Project: Derivative Trades System
+
+This application was built in a group of 5 students with the purpose of providing an application that takes user inputs on details of a derivative trades, and stores them in a system. 
+The system will be able to query the data using a front-end webpage and returns the values in a table, or as a "daily report" format, which outlines all the trades that have been made in a single day - this format can be either a csv or pdf format.
+
+### Technologies
+* Front End: Bootstrap, JQuery
+* Back-End: Python, Flask, SQL/SQLite
+
 ### Requirements
 - Python 3.8 or later
 
